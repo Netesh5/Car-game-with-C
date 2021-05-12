@@ -1,0 +1,351 @@
+# depslib dependency file v1.0
+1582817789 source:e:\proj2\hellocar\hell0car\main.cpp
+	<graphics.h>
+
+1582817784 source:e:\proj2\hellocar\hell0car\crash.cpp
+	<graphics.h>
+	<dos.h>
+
+1582797820 source:e:\proj2\hellocar\hell0car\opening.cpp
+	<graphics.h>
+
+1582801050 source:e:\proj2\hellocar\hell0car\enter to play.cpp
+	<graphics.h>
+
+1582820328 source:e:\proj2\hellocar\hell0car\haha.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
+1583377486 source:c:\users\public\hell0car\crash.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1583464409 source:c:\users\public\hell0car\haha.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
+1583738821 source:c:\users\public\hell0car\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"menu.h"
+	"maingame.h"
+
+1582861286 source:c:\users\prasanna-pc\desktop\hell0car\crash.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+
+1582863988 source:c:\users\prasanna-pc\desktop\hell0car\haha.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
+1582817789 source:c:\users\prasanna-pc\desktop\hell0car\main.cpp
+	<graphics.h>
+
+1583697078 source:c:\users\public\hell0car\car.cpp
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+
+1583292710 source:c:\users\public\hell0car\carimg.cpp
+	<graphics.h>
+
+1583375897 source:c:\users\public\hell0car\cardesign.cpp
+	<graphics.h>
+	<conio.h>
+
+1583422385 source:c:\users\public\hell0car\obstacles.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1583696285 source:c:\users\public\hell0car\loading.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1583735723 source:c:\users\public\hell0car\road.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
+1583744624 source:c:\users\public\hell0car\gameover.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1583695658 source:c:\users\public\hell0car\mainscrn.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1583734407 source:c:\users\public\hell0car\traffic.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
+1583588257 source:c:\users\public\hell0car\menu.c
+
+1583696150 source:c:\users\public\hell0car\menu.cpp
+	<stdio.h>
+	<graphics.h>
+
+1583696285 c:\users\public\hell0car\loading.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1583699101 c:\users\public\hell0car\loading.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1583732807 c:\users\public\hell0car\menu.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1583744957 c:\users\public\hell0car\maingame.h
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+
+1583759170 source:c:\users\public\main hello car\gameover.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1583760378 source:c:\users\public\main hello car\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"menu.h"
+	"maingame.h"
+
+1583759170 c:\users\public\main hello car\menu.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1583899519 c:\users\public\main hello car\maingame.h
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+
+1583913179 source:c:\users\public\main hello car\traffic.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
+1584088591 source:c:\users\lalig\downloads\hello car newww\gameover.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1583935841 source:c:\users\lalig\downloads\hello car newww\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"menu.h"
+	"maingame.h"
+
+1583886688 c:\users\lalig\downloads\hello car newww\menu.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1584094493 c:\users\lalig\downloads\hello car newww\maingame.h
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+
+1584028453 source:c:\users\lalig\downloads\hello car newww\traffic.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<unistd.h>
+
+1584200024 source:c:\users\msi\downloads\hello car newww\gameover.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+
+1584191349 source:c:\users\msi\downloads\hello car newww\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"menu.h"
+	"maingame.h"
+
+1584192366 c:\users\msi\downloads\hello car newww\menu.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1584194226 c:\users\msi\downloads\hello car newww\maingame.h
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1584202437 source:c:\users\msi\downloads\hello car newww\traffic.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<unistd.h>
+
+1584202437 source:c:\users\msi\downloads\hello car newww\check.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+
+1599372842 source:f:\hellocar remasterd\check.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+
+1599324021 source:f:\hellocar remasterd\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"menu.h"
+	"maingame.h"
+
+1584156856 f:\hellocar remasterd\menu.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1599372892 f:\hellocar remasterd\maingame.h
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1584156858 source:f:\hellocar remasterd\traffic.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<unistd.h>
+
+1599305825 source:f:\hellocar remasterd\gameover.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+
+1599385458 source:d:\cp project\nppk car\check.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+
+1599813052 source:d:\cp project\nppk car\gameover.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+
+1599812981 source:d:\cp project\nppk car\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"menu.h"
+	"maingame.h"
+
+1584110956 d:\cp project\nppk car\menu.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1599381161 d:\cp project\nppk car\maingame.h
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1584110958 source:d:\cp project\nppk car\traffic.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<unistd.h>
+
+1599385458 source:d:\cp project\car game\source code\nppk car\check.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+
+1599813052 source:d:\cp project\car game\source code\nppk car\gameover.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+
+1599812981 source:d:\cp project\car game\source code\nppk car\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"menu.h"
+	"maingame.h"
+
+1584110956 d:\cp project\car game\source code\nppk car\menu.h
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1599381161 d:\cp project\car game\source code\nppk car\maingame.h
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1584110958 source:d:\cp project\car game\source code\nppk car\traffic.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<unistd.h>
+
