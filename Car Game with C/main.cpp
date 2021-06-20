@@ -21,20 +21,16 @@ int main()
     welcome_screen();
     showmenu();
 
-
-
     //startgame();
 
     closegraph();
     return 0;
 }
 
-
 //welcome screen
 void welcome_screen()
 {
     int x, y, i;
-
     x = getmaxx()/2;
     y = getmaxy()/2;
     PlaySound(TEXT("devileyes.wav"),NULL,SND_ASYNC);
@@ -53,7 +49,7 @@ void welcome_screen()
         outtextxy(155, 70, "Car Game");
         delay(10);
 
- //car graph
+    //car graph
     setcolor(YELLOW);
     line(x-70, y, x+70, y);
     line(x-70, y, x+70, y);delay(100);
@@ -75,7 +71,6 @@ void welcome_screen()
     line(x+7, y-40, x+7, y-80);delay(100);
     line(x+7, y-40, x+7, y-5);delay(100);
     delay(500);
-
 
     rectangle(x-90,y+70,x+150,y+90);
     for(i=0;i<=239;i++)
