@@ -25,9 +25,7 @@ void gameover(int k)
     outtextxy(300, 300, "Your score:");
     outtextxy(465,300,score);
     outtextxy(300, 330, "Highscore: ");
-
     t++;
-
     //file read
     FILE *fp;
     fp=fopen("highscore.txt","r");
@@ -68,10 +66,6 @@ void gameover(int k)
     {
       gameover(k);//gameover screen
     }
-
     getch();
-
     cleardevice();
-
-
 }
